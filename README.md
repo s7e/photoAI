@@ -4,7 +4,7 @@ An AI based Spring Boot application which helps photographers to select the corr
 ## How to run it
 * Clone this Git project.
 * Make sure it's a Maven project and run Maven to load all dependencies.
-* Create an account at https://openai.com and generate an API key at https://beta.openai.com/account/api-keys.
+* Create an account at https://openai.com and generate an API key at https://platform.openai.com/api-keys.
 * Add your API key to the application.properties file.
 * Start the application as a Spring Boot app.
 * Open http://localhost:8080/ in your browser.
