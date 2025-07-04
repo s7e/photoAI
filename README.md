@@ -13,3 +13,6 @@ An AI based Spring Boot application which helps photographers to select the corr
 * Combines a predefined prompt with your input.
 * Sends it to a Large Language Model (LLM) via the OpenAI API.
 * Returns tailored camera settings (shutter speed, ISO, aperture) for your desired photo style.
+
+## License
+MIT
